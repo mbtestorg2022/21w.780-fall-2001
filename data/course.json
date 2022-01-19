@@ -1,0 +1,58 @@
+{
+  "term": "Fall",
+  "year": "2001",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose"
+    ],
+    [
+      "Business",
+      "Organizational Behavior"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Academic Writing"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Technical Writing"
+    ]
+  ],
+  "legacy_uid": "543a607d-d010-36fc-ae3b-706a24cd977d",
+  "instructors": {
+    "content": [
+      "b5bd82fe-498e-d086-b773-7efd68aa7d10"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "dd23dcbe-3fd7-3de7-e47e-ed6fbba1f719",
+    "website": "21w-780-communicating-in-technical-organizations-fall-2001"
+  },
+  "course_title": "Communicating in Technical Organizations",
+  "course_description": "This course focuses on an exploration of the role that communication plays in the work of the contemporary engineering and science professional. Emphasis is placed on analyzing how composition and publication contribute to work management and knowledge production, as well as the \"how-to\" aspects of writing specific kinds of documents in a clear style. Topics include: communication as organizational process, electronic modes such as e-mail and the Internet, the informational and social roles of specific document forms, writing as collaboration, the writing process, the elements of style, methods of oral presentation, and communication ethics. Case studies used as the basis for class discussion and some writing assignments. Several short documents, a longer report or article, and a short oral presentation are required.\n",
+  "department_numbers": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "21W.780",
+  "course_image_thumbnail": {
+    "content": "0960466e-e0f3-a9c0-d5e4-94bd0cb323bb",
+    "website": "21w-780-communicating-in-technical-organizations-fall-2001"
+  },
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "21fcde79-0395-4c14-b5e7-819f14471702",
+  "title": "Course Metadata"
+}
